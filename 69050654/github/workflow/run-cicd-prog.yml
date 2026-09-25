@@ -31,4 +31,4 @@ jobs:
 
    - name: Run program
 
-    run: python3 main.py
+    run: python3 69050654.py
